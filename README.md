@@ -36,13 +36,13 @@ What I’m Building Right Now
 
 Tech Stack I Play With
 
-Python • FastAPI • Gemini API • NLP • ML  
+Python • FastAPI • GenAI • NLP • ML  
 Git • GitHub • MySQL •  
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Large Language Models](https://img.shields.io/badge/Large_Language_Models-6A0DAD?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-5A29E4?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
