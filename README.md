@@ -15,10 +15,10 @@ Current Focus
 - Backend engineering with FastAPI
 
 Featured Work
+
 👉 Interview AI  
 👉 Agency AI  
 👉 Mental Health GenAI
 
-Learning Philosophy
 I focus on understanding systems, architecture, and real-world use cases  
 over pure theory or copy-paste projects.
