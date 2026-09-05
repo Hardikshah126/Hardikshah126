@@ -26,8 +26,6 @@ I care about things that survive contact with real usage: concurrency, data inte
 
 **AgentGuard** - an independent authorization layer for AI-driven payments. Enforces deterministic security checks (consent, cart integrity, inventory, transaction limits, idempotency) before any payment executes, because you don't trust an LLM agent to gate its own money movement. Stress-tested at 50-way concurrency: 0 duplicate orders, 0 unsafe state transitions across every run.
 
-**TalentOS** - an AI-powered hiring platform built end-to-end for a real client, from requirements to production. GPT-4o interview generation, Whisper transcription, and AI-content detection cut manual screening effort by 50%. 15-table Postgres schema with RBAC and audit logging across the full candidate to assessment to interview pipeline.
-
 **VisRAG** - a multimodal RAG pipeline (FastAPI, Qdrant, CLIP, Gemini) for retrieval over text and images, not just text chunks.
 
 **Raft-Lite** - a Raft consensus engine built from scratch in Go: leader election, log replication, crash recovery, validated across 1/3/5-node clusters, backed by 207 automated tests. Ships with a live Next.js dashboard for watching consensus happen in real time.
